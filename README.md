@@ -79,7 +79,10 @@ Here are some ideas to get you started:
 <br>
 <!--내 stat 표시-->
 
-![Changuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=radical)
+<div align="center">
+  <!-- 여기에 다른 내용 추가 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=radical" />
+</div>
 
 <!--
 <h3 align="center">📫 Contact 📫</h3>
