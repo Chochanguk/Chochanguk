@@ -77,6 +77,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp
 </div>
 <br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <!--
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
