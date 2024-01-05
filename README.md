@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 <!--타이틀 부분-->
 <div align="center">
- <img src="https://github.com/Chochanguk/Chochanguk/assets/119058637/bc8e13fc-9dbd-4f3b-8686-da8ea213f228" width="600" height="500"/>
+ <img src="https://github.com/Chochanguk/Chochanguk/assets/119058637/bc8e13fc-9dbd-4f3b-8686-da8ea213f228" width="500" height="400"/>
 </div>
 
 ---
-<--!사용가능 언어 부분-->
+<!--사용가능 언어 부분-->
 <h3 align="center">💬 Languages 💬</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
