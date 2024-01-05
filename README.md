@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 <!--타이틀 부분-->
 <div align="center">
  <img src="https://github.com/Chochanguk/Chochanguk/assets/119058637/bc8e13fc-9dbd-4f3b-8686-da8ea213f228" width="500" height="400"/>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=donut-vertical" />
+ </a>
 </div>
 
 ---
