@@ -83,10 +83,10 @@ Here are some ideas to get you started:
 ---
 
 <!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" />
+<div align="center" style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" width="48%" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" width="48%" />
   </a>
 </div>
 
