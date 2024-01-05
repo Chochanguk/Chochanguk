@@ -59,7 +59,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
 <!-- 도구 -->
 <br>
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -68,7 +67,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
-
 <div align="center"> <h4>디자인</h4>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
@@ -81,7 +79,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
 <!-- GitHub Stats -->
 <div align="center" style="display: flex; flex-direction: column;">
   <div style="display: flex; justify-content: space-between; width: 100%;">
@@ -91,4 +88,3 @@ Here are some ideas to get you started:
     </a>
   </div>
 </div>
-
