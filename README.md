@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/IntelliJ IDEA-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=F37726" />&nbsp
-  <img src="https://img.shields.io/badge/Android Studio IDEA-#34A853?style=for-the-badge&logo=androidstudio&logoColor=F37726" />&nbsp
+  <img src="https://img.shields.io/badge/Android Studio IDEA-34A853?style=for-the-badge&logo=androidstudio&logoColor=F37726" />&nbsp
   <img src="https://img.shields.io/badge/Flutter IDEA-2C2C32.svg?style=for-the-badge&logo=flutter&logoColor=F37726" />&nbsp
   <img src="https://img.shields.io/badge/Arduino IDEA-2C2C32.svg?style=for-the-badge&logo=arduino&logoColor=F37726" />&nbsp
 </div>
