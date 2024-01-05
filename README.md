@@ -79,10 +79,10 @@ Here are some ideas to get you started:
 <br>
 <!--내 stat 표시-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=vue" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
