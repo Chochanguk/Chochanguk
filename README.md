@@ -13,16 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--타이틀 부분-->
+<!-- 프로필 헤더 -->
 <div align="center">
- <img src="https://github.com/Chochanguk/Chochanguk/assets/119058637/bc8e13fc-9dbd-4f3b-8686-da8ea213f228" width="500" height="400"/>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=donut-vertical" />
- </a>
+  <img src="https://github.com/Chochanguk/Chochanguk/assets/119058637/bc8e13fc-9dbd-4f3b-8686-da8ea213f228" width="800" height="300"/>
+  <br><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" />
+  </a>
 </div>
 
 ---
-<!--사용가능 언어 부분-->
+
+<!-- 사용 가능 언어 -->
 <h3 align="center">💬 Languages 💬</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -31,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> 
 </div>
 
-<!--내용 부분-->
+<!-- 기술 스택 -->
 <br>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -43,7 +45,7 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white" />&nbsp
@@ -51,6 +53,7 @@ Here are some ideas to get you started:
 
 ---
 
+<!-- 공부 중인 내용 -->
 <br>
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -61,6 +64,7 @@ Here are some ideas to get you started:
 
 ---
 
+<!-- 도구 -->
 <br>
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
@@ -79,24 +83,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/IntelliJ IDEA-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp
 </div>
-<br>
-<!--내 stat 표시-->
+
+---
+
+<!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
--->
