@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
 <!-- 사용 가능 언어 -->
 <h3 align="center">💬 Languages 💬</h3>
 <div align="center">
