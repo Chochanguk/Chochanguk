@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Static Badge](https://img.shields.io/badge/java)
+![HTML5](https://img.shields.io/badge/java)
