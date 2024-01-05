@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <!-- 프로필 헤더 -->
 <div align="center">
-  <img src="https://github.com/Chochanguk/Chochanguk/assets/119058637/bc8e13fc-9dbd-4f3b-8686-da8ea213f228" width="800" height="300"/>
+  <img src="[https://github.com/Chochanguk/Chochanguk/assets/119058637/bc8e13fc-9dbd-4f3b-8686-da8ea213f228](https://github.com/Chochanguk/Chochanguk/assets/119058637/9aebb689-6dd4-480f-82b1-17cc8b47c634)" width="800" height="300"/>
 </div>
 
 ---
