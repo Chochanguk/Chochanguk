@@ -78,11 +78,12 @@ Here are some ideas to get you started:
 </div>
 <br>
 <!--내 stat 표시-->
-
 <div align="center">
-  <!-- 여기에 다른 내용 추가 -->
   <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=vue" />
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact)
+
 
 <!--
 <h3 align="center">📫 Contact 📫</h3>
