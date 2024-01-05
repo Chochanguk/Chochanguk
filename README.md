@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center"> <h4>디자인</h4>
-  <img src="https://img.shields.io/badge/Canva-08253c.svg?style=for-the-badge&logo=canva&logoColor=37abff" />&nbsp
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 <br>
