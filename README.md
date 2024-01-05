@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--타이틀 부분-->
 <div align="center">
- <img src="https://github.com/Chochanguk/Chochanguk/assets/119058637/bc8e13fc-9dbd-4f3b-8686-da8ea213f228" width="300" height="200"/>
+ <img src="https://github.com/Chochanguk/Chochanguk/assets/119058637/bc8e13fc-9dbd-4f3b-8686-da8ea213f228" width="600" height="500"/>
 </div>
 
 <!--내용 부분-->
