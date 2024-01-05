@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
  <img src="https://github.com/Chochanguk/Chochanguk/assets/119058637/bc8e13fc-9dbd-4f3b-8686-da8ea213f228" width="600" height="500"/>
 </div>
-
+---
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+---
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
 
+---
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
@@ -58,6 +60,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
+---
 <br>
 
 <div align="center">
@@ -66,6 +69,7 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
+---
 <br>
 <!--
 <h3 align="center">📫 Contact 📫</h3>
