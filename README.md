@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Chochanguk/Chochanguk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,7 +67,7 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<--
+<!--
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@oka1313">
