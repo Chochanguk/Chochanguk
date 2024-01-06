@@ -97,12 +97,11 @@ Here are some ideas to get you started:
     </div>
     
     <!-- 두 번째 div -->
-    <div>
-        <!-- 언어 분포도 -->
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" width=300px />
-        </a>
-    </div>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" width=300px/>
+    </a>
+  </div>
+
 </div>
 
 ---
