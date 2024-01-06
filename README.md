@@ -95,7 +95,7 @@ Here are some ideas to get you started:
           </div>
     </div>
     <!--언어 분포도-->  
-    <div>
+  <div style="order: -1;">
         <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" width=300px" />
         </a>
     </div>
