@@ -82,9 +82,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!-- GitHub Stats -->
-<div style="display: flex; justify-content: center; width:100%;" >
+<div style="display: flex; justify-content: space-between; width: 100%;">
     <!-- 첫 번째 div -->
-   <div style="float: left; width: 80%; margin-right: 20px;">
+    <div style="width: 60%; margin-right: 20px;">
         <!-- 깃허브 방문자수 -->
         <div>
             <a href="https://hits.seeyoufarm.com">
@@ -97,13 +97,14 @@ Here are some ideas to get you started:
         </div>
     </div>
     <!-- 두 번째 div -->
-   <div style="float: left; width: 40%;">
+    <div style="width: 35%;">
         <!-- 언어 분포도 -->
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark"/>
         </a>
     </div>
 </div>
+
 
 ---
 
