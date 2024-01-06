@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github.com/Chochanguk/Chochanguk/assets/119058637/9aebb689-6dd4-480f-82b1-17cc8b47c634" width="800" height="300"/>
 </div>
-
+<div align="center">
+  <img src="https://github.com/Chochanguk/Diet-management-app-Project/assets/119058637/3d590c91-ba6d-4e4c-990f-a6b239e723b0"/>
+</div>
 ---
 <!-- 사용 가능 언어 -->
 <h3 align="center">💬 Languages 💬</h3>
