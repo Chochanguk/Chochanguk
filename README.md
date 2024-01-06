@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- 프로필 헤더 -->
 <div align="center">
  <h3 align="left"> Cho changuk👋 </h3>
-  <hr style="height: 0.1px; border: none; color: #333; background-color: #333; margin-top: 10px; margin-bottom: 10px;">
+  <hr style="height: 0.5px; border: none; color: #333; background-color: #333; margin-top: 10px; margin-bottom: 10px;">
  <img src="https://capsule-render.vercel.app/api?type=Venom&color=005599&height=150&section=header&text=Hello%20World!%20I'm%20Changuk&animation=fadeIn&fontColor=000000&fontSize=40"/>
 </div>
 
