@@ -1,4 +1,3 @@
-
 <!--
 **Chochanguk/Chochanguk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,11 +18,10 @@ Here are some ideas to get you started:
  <img src="https://capsule-render.vercel.app/api?type=Venom&color=005599&height=150&section=header&text=Hello%20World!%20I'm%20Changuk&animation=fadeIn&fontColor=000000&fontSize=40"/>
 </div>
 
-___
+---
+
 <!-- 사용 가능 언어 -->
 <h3 align="center">💬 Languages 💬</h3>
-
-
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -61,6 +59,7 @@ ___
 </div>
 
 ---
+
 <!-- 도구 -->
 <br>
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -81,6 +80,7 @@ ___
 </div>
 
 ---
+
 <!-- GitHub Stats -->
 <div align="center" style="display: flex; flex-direction: column;">
   <div style="display: flex; justify-content: space-between; width: 100%;">
