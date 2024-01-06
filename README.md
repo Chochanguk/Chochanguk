@@ -15,16 +15,19 @@ Here are some ideas to get you started:
 
 
 <!-- 프로필 헤더 -->
-<div align="center">
- <h3 align="left"> Cho changuk👋 </h3>
-  <hr style="height: 0.5px; border: none; color: #333; background-color: #333; margin-top: 10px; margin-bottom: 10px;">
+<div>
  <img src="https://capsule-render.vercel.app/api?type=Venom&color=005599&height=150&section=header&text=Hello%20World!%20I'm%20Changuk&animation=fadeIn&fontColor=000000&fontSize=40"/>
+ 안녕하세요! **풀스택 개발자**를 목표로 공부 중인 학생입니다.
 </div>
 
 - - -
 
 <!-- 사용 가능 언어 -->
+
+
 <h3 align="center">💬 Languages 💬</h3>
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
