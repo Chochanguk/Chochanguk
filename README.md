@@ -1,4 +1,4 @@
-![image](https://github.com/Chochanguk/Chochanguk/assets/119058637/478643d9-3c66-4277-902c-aadc4cff6f4c)<!--
+<!--
 **Chochanguk/Chochanguk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
