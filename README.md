@@ -81,10 +81,10 @@ Here are some ideas to get you started:
 ---
 
 ## GitHub Stats
-<!-- GitHub 통계 -->
-<div style="display: flex; flex-direction: row;">
+<!-- GitHub Stats -->
+<div style="display: flex;">
     <!-- 첫 번째 div -->
-    <div>
+    <div style="flex: 1;">
         <!-- 깃허브 방문자수 -->
         <div>
             <a href="https://hits.seeyoufarm.com">
@@ -104,7 +104,6 @@ Here are some ideas to get you started:
         </a>
     </div>
 </div>
-
 
 ---
 
