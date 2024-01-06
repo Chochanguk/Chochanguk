@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!-- GitHub Stats -->
-<div style="display: flex; justify-content: center; width:80%;" >
+<div style="display: flex; justify-content: center; width:100%;" >
     <!-- 첫 번째 div -->
    <div style="float: left; width: 40%; margin-right: 20px;">
         <!-- 깃허브 방문자수 -->
