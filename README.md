@@ -93,27 +93,18 @@ Here are some ideas to get you started:
         </div>
         <!-- 깃허브 레벨 -->
         <div>
-            <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" style="width: 100%;"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" style="width: 48%;"/>
         </div>
     </div>
     <!-- 두 번째 div -->
     <div style="float: left; width: 300px;">
         <!-- 언어 분포도 -->
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" style="width: 100%;" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" style="width: 48%;" />
         </a>
     </div>
     <div style="clear: both;"></div>
 </div>
-
-
-|<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChochanguk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false"/></a>|[<img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" style="width: 48%;"/>|
-| :------: | |
-|[ <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" style="width: 48%;" />
-        </a>||
-
-
 
 ---
 
