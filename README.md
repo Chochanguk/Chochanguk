@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <!-- GitHub 통계 -->
 <div style="display: flex; flex-direction: row;">
     <!-- 첫 번째 div -->
-    <div style="flex: 1;">
+    <div>
         <!-- 깃허브 방문자수 -->
         <div>
             <a href="https://hits.seeyoufarm.com">
