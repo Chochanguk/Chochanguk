@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <!-- GitHub Stats -->
 <div style="display: inline-block;">
     <!-- 첫 번째 div -->
-    <div style="float: left; width: 300px; margin-right: 20px;">
+    <div style="display: inline-block; width: 300px; margin-right: 20px;">
         <!-- 깃허브 방문자수 -->
         <div>
             <a href="https://hits.seeyoufarm.com">
@@ -97,7 +97,7 @@ Here are some ideas to get you started:
         </div>
     </div>
     <!-- 두 번째 div -->
-    <div style="float: left; width: 300px;">
+   <div style="display: inline-block; width: 300px;">
         <!-- 언어 분포도 -->
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark"/>
