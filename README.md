@@ -32,10 +32,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> 
 </div>
-
-<!-- 기술 스택 -->
 <br>
-<h3 align="center">✨ Tech Stack ✨</h3>
+<!-- 기술 스택 -->
+## ✨ Tech Stack ✨
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
