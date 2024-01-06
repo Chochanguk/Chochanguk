@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center"> Cho changuk👋 </h3>
-
 
 <!-- 프로필 헤더 -->
 <div align="center">
+ <h3 align="center"> Cho changuk👋 </h3>
  <img src="https://capsule-render.vercel.app/api?type=Venom&color=005599&height=150&section=header&text=Hello%20World!%20I'm%20Changuk&animation=fadeIn&fontColor=000000&fontSize=40"/>
 </div>
 
