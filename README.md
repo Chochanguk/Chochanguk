@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 ---
 
 ## GitHub Stats
-<divstyle="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row;">
 <div style="display:flex; flex-direction:column;">
   <div>
     <a href="https://hits.seeyoufarm.com">
