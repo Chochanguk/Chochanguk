@@ -87,12 +87,7 @@ Here are some ideas to get you started:
     </a>
     <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" width="46%" />
   </div>
-  
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" width="46%" />
-    </a>
-  </div>
-  
+
 ---
 
 ## 📞 Contact 📞
