@@ -81,22 +81,25 @@ Here are some ideas to get you started:
 ---
 
 ## GitHub Stats
-<div align="center" style="display:flex; flex-direction:row;">
-    <div style="display:flex; flex-direction:column;">
-      <!--깃허브 방문자수-->  
-          <div>
+<div align="center" style="display: flex; flex-direction: row;">
+    <!-- 첫 번째 div -->
+    <div style="display: flex; flex-direction: column;">
+        <!-- 깃허브 방문자수 -->
+        <div>
             <a href="https://hits.seeyoufarm.com">
-           <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChochanguk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false"/>
+                <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChochanguk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false"/>
             </a>
-          </div>
-    <!--깃허브 레벨-->  
-          <div>
+        </div>
+        <!-- 깃허브 레벨 -->
+        <div>
             <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" width=300px/>
-          </div>
+        </div>
     </div>
-    <!--언어 분포도-->  
-  <div style="order: -1;">
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" width=300px" />
+    <!-- 두 번째 div -->
+    <div>
+        <!-- 언어 분포도 -->
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" width=300px" />
         </a>
     </div>
 </div>
