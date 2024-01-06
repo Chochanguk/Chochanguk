@@ -94,8 +94,8 @@ Here are some ideas to get you started:
         <!-- 깃허브 레벨 -->
         <div>
             <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia"/>
-           <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark"/>
+           <a href="https://github.com/anuraghazra/github-readme-stats width=48%">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark width=48%"/>
         </a>
         </div>
     </div>
