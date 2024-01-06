@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 ---
 
 ## GitHub Stats
-<div style="display:flex; flex-direction:row;">
+<div align="center" style="display:flex; flex-direction:row;">
     <div style="display:flex; flex-direction:column;">
       <!--깃허브 방문자수-->  
           <div>
