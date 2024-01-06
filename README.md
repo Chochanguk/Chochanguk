@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- 프로필 헤더 -->
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=Hello%15World!%15I'm%15Changuk&fontSize=50" />
+ <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=Hello%15World!%15I'm%15Changuk&fontSize=50"/>
 </div>
 
 <!-- 사용 가능 언어 -->
