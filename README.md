@@ -81,13 +81,6 @@ Here are some ideas to get you started:
 ---
 
 ## GitHub Stats
-
-죄송합니다. 문제를 해결하기 위해 order 속성을 사용하는 것은 유효한 방법이 아닙니다. order 속성은 동일한 Flex 컨테이너 내에서 자식 요소들의 순서를 변경할 때 사용되지만, 여러 개의 Flex 컨테이너 간에는 영향을 주지 않습니다.
-
-대신에, 두 번째 <div> (언어 분포도를 담은 <div>)를 첫 번째 <div> (깃허브 방문자수 및 레벨을 담은 <div>) 다음에 위치하도록 코드를 재구성할 수 있습니다. 다음은 그 예시입니다:
-
-html
-Copy code
 <div align="center" style="display: flex; flex-direction: row;">
     <!-- 첫 번째 div -->
     <div style="display: flex; flex-direction: column;">
