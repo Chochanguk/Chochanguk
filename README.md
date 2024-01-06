@@ -81,9 +81,9 @@ Here are some ideas to get you started:
 ---
 
 ## GitHub Stats
-<div style="display:flex; flex-direction:row;">
+<div style="display: flex; flex-direction: row;">
     <!-- 첫 번째 div -->
-    <div style="display: flex; flex-direction: column;">
+    <div style="display: flex; flex-direction: column;" justify-content : flex-start;>
         <!-- 깃허브 방문자수 -->
         <div>
             <a href="https://hits.seeyoufarm.com">
@@ -95,6 +95,7 @@ Here are some ideas to get you started:
             <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" width=300px/>
         </div>
     </div>
+    
     <!-- 두 번째 div -->
     <div>
         <!-- 언어 분포도 -->
