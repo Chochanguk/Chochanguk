@@ -81,13 +81,14 @@ Here are some ideas to get you started:
 ---
 
 ## GitHub Stats
-  <div>
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
     <a href="https://hits.seeyoufarm.com">
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChochanguk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false"/>
     </a>
     <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" width="46%" />
   </div>
-  <div">
+  
+  <div>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" width="46%" />
     </a>
   </div>
