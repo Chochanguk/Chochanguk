@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Cho changuk👋
 
 <!-- 프로필 헤더 -->
 <div align="center">
