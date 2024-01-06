@@ -18,6 +18,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/Chochanguk/Chochanguk/assets/119058637/9aebb689-6dd4-480f-82b1-17cc8b47c634" width="800" height="300"/>
 </div>
 ---
+-->
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+</div>
+
 <!-- 사용 가능 언어 -->
 <h3 align="center">💬 Languages 💬</h3>
 <div align="center">
