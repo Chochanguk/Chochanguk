@@ -81,6 +81,7 @@ Here are some ideas to get you started:
 ---
 
 ## GitHub Stats
+<divstyle="display:flex; flex-direction:row;">
 <div style="display:flex; flex-direction:column;">
   <div>
     <a href="https://hits.seeyoufarm.com">
@@ -90,6 +91,11 @@ Here are some ideas to get you started:
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" width=300px/>
   </div>
+</div>
+<div>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" width="46%" />
+    </a>
+</div>
 </div>
 
 ---
