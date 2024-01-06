@@ -105,6 +105,13 @@ Here are some ideas to get you started:
     </div>
 </div>
 
+
+ [![changuk's GitHub stats](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" style="width: 48%;)
+
+ [![changuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia)]()
+
+
+
 ---
 
 ## 📞 Contact 📞
