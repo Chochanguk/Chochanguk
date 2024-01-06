@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 ## GitHub Stats 
 <!-- GitHub Stats -->
-<div align="center">
+<div>
     <!-- 첫 번째 div -->
         <!-- 깃허브 방문자수 -->
         <div align="left">
@@ -92,9 +92,9 @@ Here are some ideas to get you started:
         </div>
         <!-- 깃허브 레벨 -->
         <div>
-            <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" width=48%/>
+            <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" width=50%/>
         <!-- 언어 분포도 -->
-           <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" width=48%/></a>
+           <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" width=50%/></a>
         </div>
 </div>
 
