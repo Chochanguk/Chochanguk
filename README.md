@@ -93,14 +93,14 @@ Here are some ideas to get you started:
         </div>
         <!-- 깃허브 레벨 -->
         <div>
-            <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" style="width: 100%;"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" style="width: 48%;"/>
         </div>
     </div>
     <!-- 두 번째 div -->
     <div style="float: left; width: 300px;">
         <!-- 언어 분포도 -->
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" style="width: 100%;" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" style="width: 48%;" />
         </a>
     </div>
     <div style="clear: both;"></div>
