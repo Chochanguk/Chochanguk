@@ -81,15 +81,28 @@ Here are some ideas to get you started:
 ---
 
 ## GitHub Stats
-<div align="center" style="display: flex; flex-direction: column;">
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" width="48%" />
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" width="48%" />
-    </a>
+<div align="center" style="display: flex; flex-direction: column; background-color: #1a1a1a; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <!-- GitHub 통계 및 방문자 수를 나란히 표시하기 위한 설정 -->
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+    <!-- GitHub 통계와 방문자 수를 감싸는 부분 -->
+    <div style="width: 48%; display: flex; flex-direction: column; align-items: center;">
+      <!-- GitHub 통계 이미지 -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" style="border-radius: 8px; margin-bottom: 10px;" />
+
+      <!-- 방문자 수 이미지 -->
+      <a href="https://hits.seeyoufarm.com">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false" style="border-radius: 8px;" />
+      </a>
+    </div>
+
+    <!-- 언어 사용 통계 -->
+    <div style="width: 48%;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" style="border-radius: 8px;" />
+      </a>
+    </div>
   </div>
-</div> 
+</div>
 ---
 
 ## 📞 Contact 📞
