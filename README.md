@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 ---
 
 ## GitHub Stats
-<div position: relative; left: 10px;">
+<div position: fixed; left: 10px;">
     <!-- 첫 번째 div -->
     <div style="display: flex; flex-direction: column;">
         <!-- 깃허브 방문자수 -->
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
         </div>
     </div>
     <!-- 두 번째 div -->
-    <div position: relative; left: 400px;>
+    <div position: fixed; left: 400px;>
         <!-- 언어 분포도 -->
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" width=300px" />
