@@ -103,7 +103,6 @@ Here are some ideas to get you started:
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" style="width: 48%;" />
         </a>
     </div>
-    <div style="clear: both;"></div>
 </div>
 
 ---
