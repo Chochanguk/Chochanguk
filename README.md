@@ -13,14 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 프로필 헤더
+
+<!-- 프로필 헤더 -->
 <div align="center">
-  <img src="https://github.com/Chochanguk/Chochanguk/assets/119058637/9aebb689-6dd4-480f-82b1-17cc8b47c634" width="800" height="300"/>
-</div>
----
--->
-<div align="center">
- <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=capsule%20render&fontSize=90" />
+ <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Welcome%20to%20changuk's%20gitHUb&fontSize=90" />
 </div>
 
 <!-- 사용 가능 언어 -->
