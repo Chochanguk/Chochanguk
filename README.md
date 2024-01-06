@@ -81,13 +81,23 @@ Here are some ideas to get you started:
 ---
 
 ## GitHub Stats
-<div align="center" style="display: flex; flex-direction: column;">
+<div align="center" style="display: flex; flex-direction: column; background-color: #1a1a1a; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <!-- 섹션 전체를 중앙 정렬하고, 세로 방향으로 배치하기 위한 설정 -->
   <div style="display: flex; justify-content: space-between; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" width="48%" />
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" width="48%" />
-    </a>
+    <!-- 두 개의 섹션을 나란히 표시하기 위해 가로 방향으로 배치 -->
+    <div style="width: 48%; margin-right: 2%;">
+      <!-- 첫 번째 섹션: GitHub 통계 이미지 -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" style="border-radius: 8px;" />
+    </div>
+    <div style="width: 48%; margin-left: 2%;">
+      <!-- 두 번째 섹션: 방문 횟수 및 언어 통계 이미지 -->
+      <a href="https://hits.seeyoufarm.com">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false" style="border-radius: 8px;" />
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" style="border-radius: 8px;" />
+      </a>
+    </div>
   </div>
 </div>
 ---
