@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 ## GitHub Stats
 <div align="center" style="display: flex; flex-direction: row;">
     <!-- 첫 번째 div -->
-    <div style="display: flex; flex-direction: column; flex: 1; align-items: flex-start; position: static;">
+    <div style="display: flex; flex-direction: column; flex: 1; align-items: flex-start;">
         <!-- 깃허브 방문자수 -->
         <div>
             <a href="https://hits.seeyoufarm.com">
@@ -92,14 +92,15 @@ Here are some ideas to get you started:
         </div>
         <!-- 깃허브 레벨 -->
         <div>
-            <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" width=300px/>
+            <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia" width="300px" />
         </div>
     </div>
-    <!-- 두 번째 div -->
-    <div style="flex: 1; align-self: flex-start; position: static;">
+
+      <!-- 두 번째 div -->
+    <div style="flex: 1; align-self: flex-start;">
         <!-- 언어 분포도 -->
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" width=300px" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" width="300px" />
         </a>
     </div>
 </div>
