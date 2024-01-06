@@ -105,6 +105,14 @@ Here are some ideas to get you started:
     </div>
 </div>
 
+
+<!-- GitHub Stats -->
+
+| ![GitHub 방문자 수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChochanguk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false) | ![GitHub 레벨](https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia) |
+| --- | --- |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | |
+
+
 ---
 
 ## 📞 Contact 📞
