@@ -32,7 +32,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> 
 </div>
-<br>
 
 <!-- 기술 스택 -->
 ## ✨ Tech Stack ✨
@@ -42,14 +41,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp 
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
-<br>
 <div align="center">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white" />&nbsp
 </div>
-<br>
 
 <!-- 공부 중인 내용 -->
 ## 📚 Studying 📚
@@ -58,8 +55,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white" />&nbsp
 </div>
-<br>
-
 <!-- 도구 -->
 ## 🛠 Tools 🛠
 <div align="center"> <h4>협업 및 버전관리</h4>
