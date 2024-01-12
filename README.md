@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 💪 GitHub Stats 💪
+## 📈 GitHub Stats 📈
 <!-- GitHub Stats -->
 <div>
         <!-- 깃허브 방문자수 -->
