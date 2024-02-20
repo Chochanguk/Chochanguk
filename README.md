@@ -115,5 +115,6 @@ Here are some ideas to get you started:
     <a href="https://www.instagram.com/jo_changuk?igsh=MWY4b3kxNnE2a2ZnZA==">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
+    <a href="https://changuk0308.tistory.com"/>
 </div>
 
