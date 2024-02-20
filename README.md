@@ -110,10 +110,10 @@ Here are some ideas to get you started:
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:changuk0308@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-logo&logo=Gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo&logo=Gmail&logoColor=white">
     </a>
     <a href="https://www.instagram.com/jo_changuk?igsh=MWY4b3kxNnE2a2ZnZA==">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-logo&logo=Instagram&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo&logo=Instagram&logoColor=white"> 
     </a>
     <a href="https://changuk0308.tistory.com"/>
       <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory"/>
