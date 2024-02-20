@@ -119,6 +119,5 @@ Here are some ideas to get you started:
       <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory"/>
     </a>
 </div>
-      <img src="https://img.shields.io/badge/Tstory-CC0000?style=for-the-badge&logo=&logoColor=white"/>
-      <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory"/>
+
     
