@@ -110,14 +110,15 @@ Here are some ideas to get you started:
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:changuk0308@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" width="100" height="100">
     </a>
     <a href="https://www.instagram.com/jo_changuk?igsh=MWY4b3kxNnE2a2ZnZA==">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" width="100" height="100"> 
     </a>
-    <a href="https://changuk0308.tistory.com"/>
-      <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory"/>
+    <a href="https://changuk0308.tistory.com">
+        <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory" width="100" height="100">
     </a>
 </div>
+
 
     
