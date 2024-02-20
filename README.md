@@ -116,7 +116,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/> 
     </a>
     <a href="https://changuk0308.tistory.com">
-        <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory" width="100" height="100"/>
+        <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory"/>
     </a>
 </div>
 
