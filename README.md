@@ -116,7 +116,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="https://changuk0308.tistory.com"/>
-      <img src="https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=whit">
+      <img src="https://img.shields.io/badge/Blog-CC0000?style=for-the-badge&logo=Tstory&logoColor=white">
     </a>
 </div>
 
