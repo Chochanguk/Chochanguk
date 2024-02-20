@@ -116,8 +116,9 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="https://changuk0308.tistory.com"/>
-      <img src="https://img.shields.io/badge/Tstory-CC0000?style=for-the-badge&logo=&logoColor=white"/>
+      <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory"/>
     </a>
 </div>
-      <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory%20Badge"/>
+      <img src="https://img.shields.io/badge/Tstory-CC0000?style=for-the-badge&logo=&logoColor=white"/>
+      <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory"/>
     
