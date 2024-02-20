@@ -117,7 +117,7 @@ Here are some ideas to get you started:
     </a>
     <a href="https://changuk0308.tistory.com"/>
       <img src="https://img.shields.io/badge/Tstory-CC0000?style=for-the-badge&logo=&logoColor=white">
-      [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name})](https://github.com/loosie/github-readme-tistory-card)
+      [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory%20Badge)](https://github.com/loosie/github-readme-tistory-card)
 
     </a>
 </div>
