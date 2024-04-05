@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📚 Certification 📚
+## 🏆 Certification 🏆
 
 - 정보처리기사(2023.06.09)
 - Opic IM2(2023.09.15)
