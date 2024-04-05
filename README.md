@@ -94,6 +94,11 @@ Here are some ideas to get you started:
 
 ---
 
+## 📚 Certification 📚
+
+- 정보처리기사(2023.06.09)
+- Opic IM2(2023.09.15)
+- SQLD(2024.04.05)
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
