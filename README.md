@@ -34,48 +34,26 @@ Here are some ideas to get you started:
 </div>
 
 <!-- 기술 스택 -->
-## ✨ Tech Stack ✨
+## 💻 Tech Stack 💻
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp 
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />&nbsp
 </div>
 
-<!-- 공부 중인 내용 -->
-## 📚 Studying 📚
-<div align="center">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white" />&nbsp
-</div>
-
-<!-- 도구 -->
-## 🛠 Tools 🛠
-<div align="center"> <h4>협업 및 버전관리</h4>
-  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
-</div>
-<div align="center"> <h4>디자인</h4>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-<div align="center"> <h4>IDE</h4>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white" />&nbsp
-</div>
-
----
 
 ## 🥇 GitHub Stats 🥇
 <!-- GitHub Stats -->
@@ -97,21 +75,19 @@ Here are some ideas to get you started:
 ## 🏆 Certification 🏆
 
 - 정보처리기사(2023.06.09)
-- Opic IM2(2023.09.15)
 - SQLD(2024.04.05)
+- PCCE(2024.07.25)
 
-## 📞 Contact 📞
+## 📞 Social 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:changuk0308@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.instagram.com/jo_changuk?igsh=MWY4b3kxNnE2a2ZnZA==">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/> 
-    </a>
-    <a href="https://changuk0308.tistory.com">
-        <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory"/>
-    </a>
+
+  <a href="[https://bangdh.tistory.com](https://changuk0308.tistory.com)/" align=center>
+		<img src="http://img.shields.io/badge/-Tistory-yellow?style=flat&logo=Tistory&link=https://h-owo-ld.tistory.com/"
+	 	style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+	</a>
+	<a href="mailto:changuk0308@gmail.com">
+	<img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ina9377@gmail.com"
+	 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+	</a>
+ 
 </div>
-
-
-    
