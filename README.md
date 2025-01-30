@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 <div style="display:flex; flex-direction:row;">
 
   <a href="[https://bangdh.tistory.com](https://changuk0308.tistory.com)/" align=center>
-		<img src="http://img.shields.io/badge/-Tistory-yellow?style=flat&logo=Tistory&link=https://h-owo-ld.tistory.com/"
+		<img src="http://img.shields.io/badge/-Tistory-red?style=flat&logo=Tistory&link=https://h-owo-ld.tistory.com/"
 	 	style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 	</a>
 	<a href="mailto:changuk0308@gmail.com">
