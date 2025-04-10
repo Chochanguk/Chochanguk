@@ -1,8 +1,8 @@
 <!-- 프로필 헤더 -->
 <div align="center" style="background-color: #005599; padding: 20px; text-align: center;">
   <img src="https://capsule-render.vercel.app/api?type=Venom&color=005599&height=150&section=header&text=Hello%20World!%20I'm%20Changuk&animation=fadeIn&fontColor=000000&fontSize=40" alt="Changuk's Header Image"/>
-<p><b>끊임없이 성장하고 학습하는 임베디드 / 백엔드 / 데브옵스 개발자</b></p>
-<p>새로운 기술을 배우고 체득하고 있습니다.</p>
+<p><b>끊임없이 성장하고 학습하는 개발자</b></p>
+<p>임베디드, 백엔드, 데브옵스 등 새로운 기술을 배우고 매일 체득하고 있습니다.</p>
 </div>
 
 ---
