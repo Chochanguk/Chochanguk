@@ -9,8 +9,8 @@
 
 ## 🔥 About Me
 - 🎓 동국대학교 정보통신공학 전공  
-- 🏃 백엔드 & 데브옵스 개발자 취업 준비 중  
-- 🤖 LangChain & AI 서비스 개발 가능  
+- 🏃 임베디드 & 백엔드 & 데브옵스 개발자 취업 준비 중  
+- ⛓️ LangChain & AI 서비스 개발 가능  
 - ✍️ 블로그 : [https://changuk0308.tistory.com](https://changuk0308.tistory.com)  
 - 📫 Email : changuk0308@gmail.com  
 
@@ -29,20 +29,23 @@
 ### Framework & Library
 <div align="left">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=spring-security&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
 </div>
 
 ### Architecture & Security
 <div align="left">
-<img src="https://img.shields.io/badge/MSA(Microservices)-FF6F00?style=flat-square&logo=apache-kafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/MSA(Microservices)-FF6F00?style=flat-square&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/CQRS Pattern-6C33FF?style=flat-square&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=spring-security&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/SSE(Server Sent Events)-0052CC?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
 </div>
+
+
 
 ### DevOps & Infra
 <div align="left">
@@ -52,7 +55,7 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
 </div>
----
+
 
 ## 📊 GitHub Stats
 <div align="center">
