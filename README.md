@@ -17,70 +17,89 @@ Here are some ideas to get you started:
 <!-- 프로필 헤더 -->
 <div align="center" style="background-color: #005599; padding: 20px; text-align: center;">
   <img src="https://capsule-render.vercel.app/api?type=Venom&color=005599&height=150&section=header&text=Hello%20World!%20I'm%20Changuk&animation=fadeIn&fontColor=000000&fontSize=40" alt="Changuk's Header Image"/>
-  <p style="font-size: 16px; color: white; margin-top: 15px;">
-    👋 안녕하세요! <strong>풀스택 개발자</strong>를 목표로 매일매일 <strong>체득</strong>중인 학생입니다.
-  </p>
+<p><b>끊임없이 성장하고 학습하는 임베디드/백엔드/데브옵스 개발자</b></p>
+<p>새로운 기술을 배우고 체득하고 있습니다.</p>
 </div>
 
 - - -
+<!-- 프로필 헤더 -->
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!%20I'm%20Changuk&fontSize=40&fontAlign=50&fontColor=ffffff)
 
-<!-- 사용 가능 언어 -->
-## 💬 Languages 💬
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> 
-</div>
-
-<!-- 기술 스택 -->
-## 💻 Tech Stack 💻
-<div align="center">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp;
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp;
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/android%20studio-3DDC84.svg?style=for-the-badge&logo=android%20studio&logoColor=white" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />&nbsp
-</div>
-
-## 🥇 GitHub Stats 🥇
-<!-- GitHub Stats -->
-<div>
-        <!-- 깃허브 방문자수 -->
-        <a href="https://hits.seeyoufarm.com">
-                <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChochanguk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false"/></a>
-        <!-- 깃허브 레벨 -->
-        <div>
-        <!-- 언어 분포도 -->
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" /></a>
-        <!-- 깃허브 레벨 -->  
-        <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia"/>
-        </div>
+  <p><b>끊임없이 성장하고 학습하는 백엔드/데브옵스 개발자</b></p>
+  <p>새로운 기술을 배우고 실습하는 것을 즐깁니다 :)</p>
 </div>
 
 ---
 
-## 🏆 Certification 🏆
+## 🔥 About Me
+- 🎓 동국대학교 정보통신공학 전공
+- 🏃 백엔드 & 데브옵스 개발자 취업 준비 중
+- 🤖 LangChain & AI 서비스 개발 가능
+- ✍️ 블로그 : [Tistory](https://changuk0308.tistory.com)
+  <a href="https://changuk0308.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-ff4040?style=flat-square&logo=Tistory&logoColor=white"/>
+  </a>
+- 📫 Email : changuk0308@gmail.com
+---
 
-- 정보처리기사(2023.06.09)
-- SQLD(2024.04.05)
-- PCCE(2024.07.25)
+## 🛠 Tech Stack
 
-## 📞 Social 📞
+### Language & Framework
+<div align="left">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=python&logoColor=white"/>
+</div>
+
+### DevOps & Infra
+<div align="left">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+</div>
+
+---
+
+## 🏅 Certification
+| 자격증명 | 취득일 |
+|------|-------|
+| 정보처리기사 | 2023.06.09 |
+| SQLD | 2024.04.05 |
+| PCCE | 2024.07.25 (예정) |
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  
+![Changuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=algolia)
+
+<a href="https://hits.seeyoufarm.com">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Chochanguk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/></a>
+
+</div>
+
+---
+
+## 🔗 Contact
+<div>
+  <a href="https://changuk0308.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-ff4040?style=flat-square&logo=Tistory&logoColor=white"/>
+  </a>
+  <a href="mailto:changuk0308@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</div>
+
 <div style="display:flex; flex-direction:row;">
 
   <a href="https://changuk0308.tistory.com" align=center>
