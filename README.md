@@ -37,11 +37,8 @@ Here are some ideas to get you started:
 - 🎓 동국대학교 정보통신공학 전공
 - 🏃 백엔드 & 데브옵스 개발자 취업 준비 중
 - 🤖 LangChain & AI 서비스 개발 가능
-- ✍️ 블로그 : [Tistory](https://changuk0308.tistory.com)
-  <a href="https://changuk0308.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-ff4040?style=flat-square&logo=Tistory&logoColor=white"/>
-  </a>
-- 📫 Email : changuk0308@gmail.com
+- ✍️ 블로그 : <a href="https://changuk0308.tistory.com"><img src="https://img.shields.io/badge/Tistory-ff4040?style=flat-square&logo=Tistory&logoColor=white"/></a>
+- 📫 Email : <a href="mailto:changuk0308@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ina9377@gmail.com"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 ---
 
 ## 🛠 Tech Stack
@@ -67,48 +64,20 @@ Here are some ideas to get you started:
 
 ---
 
-## 🏅 Certification
-| 자격증명 | 취득일 |
-|------|-------|
-| 정보처리기사 | 2023.06.09 |
-| SQLD | 2024.04.05 |
-| PCCE | 2024.07.25 (예정) |
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-  
-![Changuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=algolia)
-
-<a href="https://hits.seeyoufarm.com">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Chochanguk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/></a>
-
-</div>
-
----
-
-## 🔗 Contact
+##  📊 GitHub Stats 
+<!-- GitHub Stats -->
 <div>
-  <a href="https://changuk0308.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-ff4040?style=flat-square&logo=Tistory&logoColor=white"/>
-  </a>
-  <a href="mailto:changuk0308@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
+        <!-- 깃허브 방문자수 -->
+        <a href="https://hits.seeyoufarm.com">
+                <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChochanguk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false"/></a>
+        <!-- 깃허브 레벨 -->
+        <div>
+        <!-- 언어 분포도 -->
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" /></a>
+        <!-- 깃허브 레벨 -->  
+        <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia"/>
+        </div>
 </div>
 
-<div style="display:flex; flex-direction:row;">
-
-  <a href="https://changuk0308.tistory.com" align=center>
-		<img src="http://img.shields.io/badge/-Tistory-red?style=flat&logo=Tistory&link=https://h-owo-ld.tistory.com/"
-	 	style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-	</a>
-	<a href="mailto:changuk0308@gmail.com">
-	<img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ina9377@gmail.com"
-	 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-	</a>
- 
-</div>
+---
