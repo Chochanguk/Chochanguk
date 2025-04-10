@@ -10,7 +10,7 @@
 ## 🔥 About Me
 - 🎓 동국대학교 정보통신공학 전공 
 - 🏃 임베디드 & 백엔드 & 데브옵스 개발자 취업 준비 중  
-- ⛓️ LangChain & AI 서비스 개발 가능
+- ⛓️ 디바이스 드라이버, MCU SW, LangChain & AI 
 - ✍️ 블로그 : [https://changuk0308.tistory.com](https://changuk0308.tistory.com)  
 - 📫 Email : changuk0308@gmail.com  
 
