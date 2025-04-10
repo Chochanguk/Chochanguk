@@ -2,15 +2,15 @@
 <div align="center" style="background-color: #005599; padding: 20px; text-align: center;">
   <img src="https://capsule-render.vercel.app/api?type=Venom&color=005599&height=150&section=header&text=Hello%20World!%20I'm%20Changuk&animation=fadeIn&fontColor=000000&fontSize=40" alt="Changuk's Header Image"/>
 <p><b>끊임없이 성장하고 학습하는 개발자</b></p>
-<p>임베디드, 백엔드, 데브옵스 등 새로운 기술을 배우고 매일 체득하고 있습니다.</p>
+<p>새로운 기술을 배우고 매일 체득하고 있습니다.</p>
 </div>
 
 ---
 
 ## 🔥 About Me
-- 🎓 동국대학교 정보통신공학 전공  
+- 🎓 동국대학교 정보통신공학 전공 
 - 🏃 임베디드 & 백엔드 & 데브옵스 개발자 취업 준비 중  
-- ⛓️ LangChain & AI 서비스 개발 가능  
+- ⛓️ LangChain & AI 서비스 개발 가능
 - ✍️ 블로그 : [https://changuk0308.tistory.com](https://changuk0308.tistory.com)  
 - 📫 Email : changuk0308@gmail.com  
 
