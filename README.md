@@ -80,12 +80,11 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia"/>
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" />
 </a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia"/>
 
 </div>
