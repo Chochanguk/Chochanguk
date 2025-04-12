@@ -52,9 +52,9 @@
 ---
 
 ## ⛓️ Embedded & System
-- 차량 전장(Device Driver, Embedded System) 개발 경험  
-- MCU 펌웨어 / RTOS / IoT 개발 학습 중  
+- Device Driver(Linux, Embedded System),차량 전장(MCU SW, BLE) 개발 경험
 - Sensor Data 처리, 시스템 제어 설계  
+- MCU 펌웨어 / RTOS / IoT 개발 학습 중  
 
 ---
 
