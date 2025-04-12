@@ -29,6 +29,16 @@
 
 ## 🛠 Tech Stack
 
+### DevOps & Infra
+<div align="left">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS Beanstalk-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+</div>
+  
+
 ### Backend
 <div align="left">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> 
@@ -47,21 +57,19 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 </div>
   
-### DevOps & Infra
+### AI & Automation
 <div align="left">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_EB-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-</div>
-  
-### AI & GPT API
-<div align="left">
+<img src="https://img.shields.io/badge/Fine--Tuning-FF9900?style=flat-square&logo=apache&logoColor=white"/> 
 <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=openai&logoColor=white"/> 
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/> 
-<div/>
+<img src="https://img.shields.io/badge/RAG-0052CC?style=flat-square&logo=databricks&logoColor=white"/> 
+<img src="https://img.shields.io/badge/LLM_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> 
+</div>
+
+
 ---
+
 
 ## ⛓️ Embedded & System
 - Device Driver(Linux, Embedded System) 개발 경험  
