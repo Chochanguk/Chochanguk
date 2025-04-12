@@ -69,10 +69,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia"/>
 
 </div>
-
----
-
-## 📝 Blog & Contact
-- Blog : [https://changuk0308.tistory.com](https://changuk0308.tistory.com)  
-- Email : changuk0308@gmail.com  
-- GitHub : [https://github.com/Chochanguk](https://github.com/Chochanguk)  
