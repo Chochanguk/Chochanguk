@@ -1,8 +1,8 @@
 <!-- 프로필 헤더 -->
 <div align="center" style="background-color: #005599; padding: 20px; text-align: center;">
   <img src="https://capsule-render.vercel.app/api?type=Venom&color=005599&height=150&section=header&text=Hello%20World!%20I'm%20Changuk&animation=fadeIn&fontColor=000000&fontSize=40" alt="Changuk's Header Image"/>
-<p><b>끊임없이 성장하고 학습하는 개발자</b></p>
-<p>새로운 기술을 배우고 매일 체득하고 있습니다.</p>
+<p><b>끊임없이 학습하며 성장하는 개발자</b></p>
+<p>매일 헤메며 헤멘 만큼 새로운 기술을 체득하고 있습니다.</p>
 </div>
 
 ---
@@ -10,7 +10,7 @@
 ## 🔥 About Me
 - 🎓 동국대학교 정보통신공학 전공  
 - 🏃‍♂️ 임베디드 & 백엔드 & 데브옵스 개발자 지망  
-- ⚙️ SpringBoot + MSA + RabitMQ + Redis + LangChain 기반 프로젝트 경험  
+- ⚙️ SpringBoot + MSA + RabbitMQ + Redis + LangChain 기반 프로젝트 경험  
 - ⛓️ 차량 전장(임베디드 시스템) 개발 및 MCU 펌웨어 경험  
 - ✍️ 기술 블로그 : [https://changuk0308.tistory.com](https://changuk0308.tistory.com)  
 - 📫 Email : changuk0308@gmail.com  
@@ -52,7 +52,8 @@
 ---
 
 ## ⛓️ Embedded & System
-- Device Driver(Linux, Embedded System),차량 전장(MCU SW, BLE) 개발 경험
+- Device Driver(Linux, Embedded System) 개발 경험  
+- 차량 전장(MCU SW, BLE) 개발 경험  
 - Sensor Data 처리, 시스템 제어 설계  
 - MCU 펌웨어 / RTOS / IoT 개발 학습 중  
 
