@@ -9,9 +9,19 @@
 
 ## 🔥 About Me
 - 🎓 동국대학교 정보통신공학 전공  
-- 🏃‍♂️ 임베디드 & 백엔드 & 데브옵스 개발자 지망  
-- ⚙️ SpringBoot + MSA + RabbitMQ + Redis + LangChain 기반 프로젝트 경험  
-- ⛓️ 차량 전장(임베디드 시스템) 개발 및 MCU 펌웨어 경험  
+- 👨‍💻 임베디드·백엔드·데브옵스 개발자 지망  
+
+- ⚙️ 통합 솔루션 서비스 개발 경험  
+  - 차량 전장 MCU SW · Front · Back · DB · AI 통합 프로젝트  
+  - GitHub: [Project-Taba](https://github.com/Project-Taba)  
+
+- ⛓️ SpringBoot + MSA + RabbitMQ + Redis + LangChain 기반 서비스 개발 경험  
+  - GitHub: [Be09-Fin-Pado](https://github.com/Be09-Fin-Pado)  
+
+- 🖥️ Linux Device Driver 개발 경험  
+  - Character Device 기반 SCULL Driver 개발 및 커널 모듈 프로그래밍  
+  - GitHub: [Embeded-System-Scull-driver](https://github.com/Chochanguk/Embeded-System-Scull-driver)  
+
 - ✍️ 기술 블로그 : [https://changuk0308.tistory.com](https://changuk0308.tistory.com)  
 - 📫 Email : changuk0308@gmail.com  
 
