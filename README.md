@@ -60,11 +60,7 @@
 
 
 ## 📊 GitHub Stats
-<div align="center">
-
-<a href="https://visitor-badge.laobi.icu/badge?page_id=Chochanguk.Chochanguk">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Chochanguk.Chochanguk" alt="visitor badge"/>
-</a>
+<div align="left">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" />
