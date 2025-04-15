@@ -9,18 +9,18 @@
 
 ## 🔥 About Me
 - 🎓 동국대학교 정보통신공학 전공  
-- 👨‍💻 임베디드·백엔드·데브옵스 개발자 지망  
+- 👨‍💻 임베디드·백엔드·데브옵스 개발자 지망
+
+- ⛓️ 인사관리 시스템(ERP) 개발 경험 
+  - SpringBoot + vue.js + RabbitMQ + LangChain 기반 서비스 개발 경험
+  - 48개 DB 도메인 (Maria DB), Nosql (Redis, Mongo DB)
+  - GitHub: [Be09-Fin-Pado](https://github.com/Be09-Fin-Pado)
 
 - ⚙️ 통합 솔루션 서비스 개발 경험  
   - 차량 전장(MCU SW, BLE) 개발
   - Sensor Data 처리, 시스템 제어 설계
   - Front(Mobile, Web) · Back · DB · AI(딥러닝) 통합 프로젝트  
   - GitHub: [Project-Taba](https://github.com/Project-Taba)  
-
-- ⛓️ 인사관리 시스템(ERP) 개발 경험 
-  - SpringBoot + vue.js + RabbitMQ + LangChain 기반 서비스 개발 경험
-  - 48개 DB 도메인 (Maria DB), Nosql (Redis, Mongo DB)
-  - GitHub: [Be09-Fin-Pado](https://github.com/Be09-Fin-Pado)  
 
 - 🖥️ Linux Device Driver 개발 경험  
   - Character Device 기반 SCULL Driver 개발 및 커널 모듈 프로그래밍  
