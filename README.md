@@ -12,7 +12,9 @@
 - 👨‍💻 임베디드·백엔드·데브옵스 개발자 지망  
 
 - ⚙️ 통합 솔루션 서비스 개발 경험  
-  - 차량 전장 MCU SW · Front · Back · DB · AI 통합 프로젝트  
+  - 차량 전장(MCU SW, BLE) 개발
+  - Sensor Data 처리, 시스템 제어 설계
+  - Front(Mobile, Web) · Back · DB · AI(딥러닝) 통합 프로젝트  
   - GitHub: [Project-Taba](https://github.com/Project-Taba)  
 
 - ⛓️ SpringBoot + MSA + RabbitMQ + Redis + LangChain 기반 서비스 개발 경험  
@@ -66,16 +68,6 @@
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> 
 </div>
-
-
----
-
-
-## ⛓️ Embedded & System
-- Device Driver(Linux, Embedded System) 개발 경험  
-- 차량 전장(MCU SW, BLE) 개발 경험  
-- Sensor Data 처리, 시스템 제어 설계  
-- MCU 펌웨어 / RTOS / IoT 개발 학습 중  
 
 ---
 
