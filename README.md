@@ -17,7 +17,9 @@
   - Front(Mobile, Web) · Back · DB · AI(딥러닝) 통합 프로젝트  
   - GitHub: [Project-Taba](https://github.com/Project-Taba)  
 
-- ⛓️ SpringBoot + MSA + RabbitMQ + Redis + LangChain 기반 서비스 개발 경험  
+- ⛓️ 인사관리 시스템(ERP) 개발 경험 
+  - SpringBoot + vue.js + RabbitMQ + LangChain 기반 서비스 개발 경험
+  - 48개 DB 도메인 (Maria DB), Nosql (Redis, Mongo DB)
   - GitHub: [Be09-Fin-Pado](https://github.com/Be09-Fin-Pado)  
 
 - 🖥️ Linux Device Driver 개발 경험  
