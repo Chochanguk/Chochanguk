@@ -55,7 +55,9 @@
 <img src="https://img.shields.io/badge/MyBatis-0052CC?style=flat-square&logo=databricks&logoColor=white"/>  
 <img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=flat-square&logo=spring&logoColor=white"/>  
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>  
-<img src="https://img.shields.io/badge/SpringWebFlux-0DBD8B?style=flat-square&logo=spring&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SpringBatch-6DB33F?style=flat-square&logo=spring&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SpringCloudNetflix-46B749?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringWebFlux-0DBD8B?style=flat-square&logo=spring&logoColor=white"/> 
 <img src="https://img.shields.io/badge/SpringWebSocket-6DB33F?style=flat-square&logo=spring&logoColor=white"/>  
 <img src="https://img.shields.io/badge/STOMP-800000?style=flat-square&logo=apachekafka&logoColor=white"/>  
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>  
