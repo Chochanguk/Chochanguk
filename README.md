@@ -56,6 +56,8 @@
 <img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=flat-square&logo=spring&logoColor=white"/>  
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>  
 <img src="https://img.shields.io/badge/SpringWebFlux-0DBD8B?style=flat-square&logo=spring&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SpringWebSocket-6DB33F?style=flat-square&logo=spring&logoColor=white"/>  
+<img src="https://img.shields.io/badge/STOMP-800000?style=flat-square&logo=apachekafka&logoColor=white"/>  
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>  
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>  
@@ -68,6 +70,7 @@
 <img src="https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/EventSource-000000?style=flat-square&logo=javascript&logoColor=white"/>  
 </div>
   
 ### 🤖 AI & Automation  
