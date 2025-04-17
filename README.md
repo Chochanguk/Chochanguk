@@ -34,7 +34,7 @@
 - 🧠 고가용성 클러스터 환경 및 CI/CD 개발 경험
   - Docker + Kubernetes 환경에서 MariaDB, Redis, MongoDB를 포함한 고가용성 환경
   - Jenkins 기반 CI/CD 파이프라인 구성 및 DockerHub 이미지 자동 배포
-  - Spring Batch기반 WebFlux + SSE 기반 실시간 데이터 자동 알림 시스템
+  - Spring Batch + WebFlux + SSE 기반 실시간 데이터 자동 알림 시스템
   - GitHub: [Yoribogo](https://github.com/hanwha-be09-4vengers)
 
 - ✍️ 기술 블로그 : [https://changuk0308.tistory.com](https://changuk0308.tistory.com)  
