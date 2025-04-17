@@ -16,7 +16,7 @@
   - 48개 DB 도메인 (Maria DB), Nosql (Redis, Mongo DB)
   - GitHub: [Be09-Fin-Pado](https://github.com/Be09-Fin-Pado)
 
-- ⚙️ 통합 솔루션(HW,SW,AI) 서비스 개발 경험  
+- ⚙️ 통합 솔루션(HW, SW, AI) 서비스 개발 경험  
   - 차량 전장(MCU SW, BLE 무선 통신) 개발
   - Sensor Data 처리(캘리브레이션), 시스템 제어 설계(Server)
   - Front(Mobile, Web) · Back · DB · AI(딥러닝) 통합 프로젝트  
