@@ -16,7 +16,7 @@
 ## 📌 주요 프로젝트
 - ⚙️ 통합 솔루션(HW, SW, AI) 서비스 개발 경험  
   - 차량 전장(MCU SW, BLE 무선 통신) 개발
-  - HW · Front(Mobile, Web) · Back · DB · AI(딥러닝) 통합 시스템  
+  - HW · Front(Mobile, Web) · Back · DB · AI(딥러닝) 통합 아키텍처
   - Sensor Data 처리(캘리브레이션), 시스템 통합 및 제어 설계
   - GitHub: [Project-Taba](https://github.com/Project-Taba)  
 
