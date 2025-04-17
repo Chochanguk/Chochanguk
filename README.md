@@ -11,20 +11,30 @@
 - 🎓 동국대학교 정보통신공학 전공  
 - 👨‍💻 임베디드·백엔드·데브옵스 개발자 지망
 
-- ⛓️ 인사관리 시스템(ERP) 개발 경험 
-  - SpringBoot + vue.js + RabbitMQ + LangChain 기반 서비스 개발 경험
-  - 48개 DB 도메인 (Maria DB), Nosql (Redis, Mongo DB)
-  - GitHub: [Be09-Fin-Pado](https://github.com/Be09-Fin-Pado)
-
 - ⚙️ 통합 솔루션(HW, SW, AI) 서비스 개발 경험  
   - 차량 전장(MCU SW, BLE 무선 통신) 개발
-  - Sensor Data 처리(캘리브레이션), 시스템 통합 및 제어 설계(Architecture)
+  - Sensor Data 처리(캘리브레이션), 시스템 통합 및 제어 설계
   - Front(Mobile, Web) · Back · DB · AI(딥러닝) 통합 프로젝트  
   - GitHub: [Project-Taba](https://github.com/Project-Taba)  
 
 - 🖥️ Linux Device Driver 개발 경험  
   - Character Device 기반 SCULL Driver 개발 및 커널 모듈 프로그래밍  
-  - GitHub: [Embeded-System-Scull-driver](https://github.com/Chochanguk/Embeded-System-Scull-driver)  
+  - GitHub: [Embeded-System-Scull-driver](https://github.com/Chochanguk/Embeded-System-Scull-driver)
+
+- ⛓️ 인사관리 시스템(ERP) 개발 경험 
+  - SpringBoot + vue.js + RabbitMQ + LangChain 기반 서비스 개발 경험
+  - 48개 DB 도메인 (Maria DB), Nosql (Redis, Mongo DB)
+  - GitHub: [Be09-Fin-Pado](https://github.com/Be09-Fin-Pado)
+    
+- 🧩 MSA 기반 웹 서비스 개발 경험 
+  - Spring Cloud Netflix(Eureka, Gateway) 기반 마이크로서비스 아키텍처 구성
+  - Spring Security, JWT 기반 인증 시스템과 Oauth2.0 기반 소셜 로그인(카카오·네이버) 구현
+  - GitHub: [Project-Taba](https://github.com/Project-Taba)
+  
+- 🧠 고가용성 클러스터 환경 구축 및 개발 경험
+  - Docker + Kubernetes 환경에서 MariaDB, Redis, MongoDB를 포함한 고가용성 환경 구현
+  - WebFlux + SSE 기반 실시간 데이터(알림) 처리 구현
+  - GitHub: [Project-Taba](https://github.com/hanwha-be09-4vengers)
 
 - ✍️ 기술 블로그 : [https://changuk0308.tistory.com](https://changuk0308.tistory.com)  
 - 📫 Email : changuk0308@gmail.com  
