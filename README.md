@@ -63,20 +63,22 @@
 </div>
 
 
-### Frontend
+### 🎨 Frontend
 <div align="left">
 <img src="https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 </div>
   
-### AI & Automation
+### 🤖 AI & Automation  
 <div align="left">
-<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=openai&logoColor=white"/> 
-<img src="https://img.shields.io/badge/RAG-0052CC?style=flat-square&logo=databricks&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> 
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=openai&logoColor=white"/>  
+<img src="https://img.shields.io/badge/RAG-0052CC?style=flat-square&logo=databricks&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Chroma-FF5F6D?style=flat-square&logo=vectorworks&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>  
 </div>
+
 
 ---
 
