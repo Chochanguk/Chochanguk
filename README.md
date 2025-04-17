@@ -29,12 +29,12 @@
 - 🧩 MSA 기반 웹 서비스 개발 경험 
   - Spring Cloud Netflix(Eureka, Gateway) 기반 마이크로서비스 아키텍처 구성
   - Spring Security, JWT 기반 인증 시스템과 Oauth2.0 기반 소셜 로그인(카카오·네이버) 구현
-  - GitHub: [Project-Taba](https://github.com/Project-Taba)
+  - GitHub: [SGMA](https://github.com/Project-Taba](https://github.com/Spring-Cooler)
   
 - 🧠 고가용성 클러스터 환경 구축 및 개발 경험
   - Docker + Kubernetes 환경에서 MariaDB, Redis, MongoDB를 포함한 고가용성 환경 구현
   - WebFlux + SSE 기반 실시간 데이터(알림) 처리 구현
-  - GitHub: [Project-Taba](https://github.com/hanwha-be09-4vengers)
+  - GitHub: [Yoribogo](https://github.com/hanwha-be09-4vengers)
 
 - ✍️ 기술 블로그 : [https://changuk0308.tistory.com](https://changuk0308.tistory.com)  
 - 📫 Email : changuk0308@gmail.com  
