@@ -33,26 +33,35 @@
 
 ## 🛠 Tech Stack
 
-### DevOps & Infra
+### ☁️ Cloud & DevOps  
 <div align="left">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS Beanstalk-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>  
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>  
+<img src="https://img.shields.io/badge/AWS Beanstalk-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Load Balancer-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>  
+<img src="https://img.shields.io/badge/NAT Gateway-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Internet Gateway-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>  
 </div>
+
   
 
-### Backend
+### 🛠️ Backend  
 <div align="left">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=spring&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MyBatis-0052CC?style=flat-square&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=flat-square&logo=spring&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=spring&logoColor=white"/>  
+<img src="https://img.shields.io/badge/MyBatis-0052CC?style=flat-square&logo=databricks&logoColor=white"/>  
+<img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=flat-square&logo=spring&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SpringWebFlux-0DBD8B?style=flat-square&logo=spring&logoColor=white"/>  
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>  
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Uvicorn-121212?style=flat-square&logo=uvicorn&logoColor=white"/>  
 </div>
+
 
 ### Frontend
 <div align="left">
@@ -63,10 +72,8 @@
   
 ### AI & Automation
 <div align="left">
-<img src="https://img.shields.io/badge/Fine--Tuning-FF9900?style=flat-square&logo=apache&logoColor=white"/> 
 <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=openai&logoColor=white"/> 
 <img src="https://img.shields.io/badge/RAG-0052CC?style=flat-square&logo=databricks&logoColor=white"/> 
-<img src="https://img.shields.io/badge/LLM_API-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> 
 </div>
