@@ -1,6 +1,6 @@
 <!-- 프로필 헤더 -->
 <div align="center" style="background-color: #005599; padding: 20px; text-align: center;">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=005599&height=150&section=header&text=Hello%20World!%20I'm%20Changuk&animation=fadeIn&fontColor=333333&fontSize=40" alt="Changuk's Header Image"/>
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=005599&height=150&section=header&text=Hello%20World!%20I'm%20Changuk&animation=fadeIn&fontColor=222222&fontSize=40" alt="Changuk's Header Image"/>
 <p><b>끊임없이 성장하는 개발자</b></p>
 <p>안녕하세요. 새로운 기술에 매일 헤매지만 헤맨만큼 체득하고 있습니다.</p>
 </div>
