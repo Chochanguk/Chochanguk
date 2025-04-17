@@ -23,7 +23,7 @@
 
 - ⛓️ 인사관리 시스템(ERP) 개발 경험 
   - SpringBoot + vue.js + RabbitMQ + LangChain 기반 서비스
-  - AWS EB 환경 및 Uvicorn(ASGI) 기반 AI 챗봇 서빙 시스템 구현
+  - 클라우드 환경(AWS EB) 및 Uvicorn(ASGI) 기반 AI 챗봇 서빙 시스템 구현
   - GitHub: [Be09-Fin-Pado](https://github.com/Be09-Fin-Pado)
     
 - 🧩 MSA 기반 웹 서비스 개발 경험 
