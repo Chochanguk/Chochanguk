@@ -1,7 +1,7 @@
 <!-- 프로필 헤더 -->
 <div align="center" style="padding: 20px; text-align: center;">
   <img 
-    src="https://capsule-render.vercel.app/api?type=Venom&color=005599&height=150&section=header&text=Hello%20World!%20I'm%20Changuk&animation=fadeIn&fontColor=000000&fontSize=40&stroke=66B2FF&strokeWidth=0.4" 
+    src="https://capsule-render.vercel.app/api?type=Venom&color=005599&height=150&section=header&text=Hello%20World!%20I'm%20Changuk&animation=fadeIn&fontColor=000000&fontSize=40&stroke=66B2FF&strokeWidth=0.6" 
     alt="Changuk's Header Image"
   />
   <p> 👋 안녕하세요. 새로운 기술에 매일 헤매지만 헤맨만큼 체득하고 있습니다.🔥</p>
