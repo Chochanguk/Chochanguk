@@ -100,15 +100,3 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>  
 </div>
 
-
----
-
-## 📊 GitHub Stats
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Chochanguk&show_icons=true&theme=algolia"/>
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chochanguk&layout=compact&theme=dark" />
-</a>
-
-</div>
