@@ -16,27 +16,27 @@
 ---
 
 ## 📌 주요 프로젝트
-- ⚙️ 통합 솔루션(HW, SW, AI) 서비스 개발 경험  
-  - HW(MCU, FSR 센서) + Front(Mobile, Web) + Back(DB, Server) + AI(LSTM DL) 아키텍처 설계/구현
+- ⚙️ 통합 솔루션(HW, SW, AI)을 활용한 급발진 대처 서비스
+  - HW(MCU, FSR 센서) + FE(Mobile, Web) + BE(DB, Server) + AI(LSTM DL) 아키텍처 설계/
   - 차량 전장(MCU SW - BLE + UUID 무선 통신) 개발
   - Sensor Data 처리(캘리브레이션), 시스템 통합 및 제어 설계
   - GitHub: [Project-Taba](https://github.com/Project-Taba)  
 
-- 🖥️ Linux Device Driver 개발 경험  
+- 🖥️ Linux Device Driver(키보드, 마우스 등 OS 내 디바이스 드라이버) 
   - Character Device 기반 SCULL Driver 개발 및 커널 모듈 프로그래밍  
   - GitHub: [Embeded-System-Scull-driver](https://github.com/Chochanguk/Embeded-System-Scull-driver)
 
-- ⛓️ 인사관리 시스템(ERP) 개발 경험 
+- ⛓️ 지능형 챗봇 결합의 인사 시스템(HRMS)
   - SpringBoot + Vue.js + RabbitMQ + AI(RAG/LangChain) 아키텍처 설계/구현
   - 클라우드 환경(AWS EB) 및 FastAPI 기반 AI 챗봇 서빙 시스템 구현
   - GitHub: [Be09-Fin-Pado](https://github.com/Be09-Fin-Pado)
     
-- 🧩 MSA 기반 웹 서비스 개발 경험 
+- 🧩 MSA(Microservecie Architecture) 기반 스터디 관리 플랫폼
   - Spring Cloud Netflix(Eureka, Gateway, Feign Client) 기반 마이크로서비스 아키텍처
   - Spring Security, JWT 기반 인증 시스템 및 Oauth2.0 기반 소셜 로그인
   - GitHub: [SGMA](https://github.com/Spring-Cooler)
   
-- 🧠 고가용성 클러스터 환경 및 CI/CD 개발 경험
+- 🧠 고가용성 클러스터 환경 및 CI/CD (공공데이터 + AI 식사 메뉴 추천 서비스)
   - Docker + Kubernetes 환경의 MariaDB, Redis, MongoDB를 포함한 고가용성 환경
   - Jenkins 기반 CI/CD 파이프라인 구성 및 DockerHub 이미지 자동 배포
   - Spring Batch + WebFlux + SSE 기반 실시간 데이터 자동 알림 시스템
