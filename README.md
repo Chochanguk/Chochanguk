@@ -44,7 +44,6 @@
  
 - 🤖 Qwen 기반 VQA 모델 경량화 및 Stacking Ensemble 성능 개선
   - Qwen2.5-VL 기반 VLM에 4-bit NF4 양자화 및 LoRA 파인튜닝 적용
-  - 이미지·질문 유형별 오답 분석 및 프롬프트 엔지니어링으로 예측 성능 개선
   - 3개 VLM의 A/B/C/D 선택지별 예측 확률을 활용한 Logistic Regression Stacking Ensemble
   - 검증 정확도 **96%**, Kaggle **약 1,000팀 중 9위** 달성
   - GitHub: [AI_CH](https://github.com/AI-Challenge-SCG/AI_CH)
