@@ -41,6 +41,13 @@
   - Jenkins 기반 CI/CD 파이프라인 구성 및 DockerHub 이미지 자동 배포
   - Spring Batch + WebFlux + SSE 기반 실시간 데이터 자동 알림 시스템
   - GitHub: [Yoribogo](https://github.com/hanwha-be09-4vengers)
+ 
+- 🤖 Qwen 기반 VQA 모델 경량화 및 Stacking Ensemble 성능 개선
+  - Qwen2.5-VL 기반 VLM에 4-bit NF4 양자화 및 LoRA 파인튜닝 적용
+  - 이미지·질문 유형별 오답 분석 및 프롬프트 엔지니어링으로 예측 성능 개선
+  - 3개 VLM의 A/B/C/D 선택지별 예측 확률을 활용한 Logistic Regression Stacking Ensemble
+  - 검증 정확도 **96%**, Kaggle **약 1,000팀 중 9위** 달성
+  - GitHub: [AI_CH](https://github.com/AI-Challenge-SCG/AI_CH)
 
 - ✍️ 기술 블로그 : [https://changuk0308.tistory.com](https://changuk0308.tistory.com)  
 - 📫 Email : changuk0308@gmail.com  
@@ -91,12 +98,18 @@
 <img src="https://img.shields.io/badge/EventSource-000000?style=flat-square&logo=javascript&logoColor=white"/>  
 </div>
   
-### 🤖 AI & Automation  
-<div align="left">
-<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=openai&logoColor=white"/>  
-<img src="https://img.shields.io/badge/RAG-0052CC?style=flat-square&logo=databricks&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Chroma-FF5F6D?style=flat-square&logo=vectorworks&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>  
-</div>
 
+### 🤖 AI & Automation
+<div align="left">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Qwen2.5--VL-6F42C1?style=flat-square"/>
+<img src="https://img.shields.io/badge/LoRA-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/4bit%20Quantization-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-0052CC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Chroma-FF5F6D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</div>
